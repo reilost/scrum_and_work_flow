@@ -15,6 +15,6 @@
 > 11. 上线
 > 12. 观察评估
 
-<img src='img/base_flow_chart.png'  width='481px'  height='670px'/> 
+<img src='../img/base_flow_chart.png'  width='481px'  height='670px'/> 
 ---
 
