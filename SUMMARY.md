@@ -7,12 +7,6 @@
  * [ How to do](scrum/how_to_do.md) 
 
 
-
-* [Scrum](scrum/README.md)
- * [什么是 Scrum](scrum/what_is_scrum.md) 
- * [基本概念](scrum/base_info.md) 
- * [ How to do](scrum/how_to_do.md) 
-   
 * [产品研发工作流程](work_flow/README.md)
  * [摘要](work_flow/rdwf_summary.md) 
  * [整理需求](work_flow/rdwf_get_require.md) 
