@@ -13,4 +13,4 @@
  * [检验数据](work_flow/rdwf_validate.md) 
 * [问题反馈求助](help/README.md)
 * [其它](others/README.md)
- * [技术交流](othes/friday_coffee_time.md) 
+ * [技术交流](others/friday_coffee_time.md) 
