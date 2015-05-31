@@ -1,7 +1,4 @@
-# **Done is better than perfect**
 
-
-# **Move fast and break things**
 # 目录
 
 * [Scrum](#scrum)
