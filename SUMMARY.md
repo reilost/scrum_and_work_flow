@@ -1,3 +1,12 @@
+* [Scrum](scrum/README.md)
+
+ * [什么是 Scrum](scrum/what_is_scrum.md) 
+
+ * [基本概念](scrum/base_info.md) 
+
+ * [ How to do](scrum/how_to_do.md) 
+
+
 
 * [Scrum](scrum/README.md)
  * [什么是 Scrum](scrum/what_is_scrum.md) 
