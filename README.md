@@ -1,6 +1,4 @@
 
+ **Done is better than perfect**
 
-# **Done is better than perfect**
-
-
-# **Move fast and break things**
+ **Move fast and break things**
