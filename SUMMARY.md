@@ -3,7 +3,6 @@
  * [基本概念](scrum/base_info.md) 
  * [ How to do](scrum/how_to_do.md) 
 * [产品研发工作流程](work_flow/README.md)
- * [摘要](work_flow/rdwf_summary.md)
  * [整理需求](work_flow/rdwf_get_require.md) 
  * [细化需求](work_flow/rdwf_require_detail.md) 
  * [KickOff](work_flow/rdwf_kickoff.md) 
