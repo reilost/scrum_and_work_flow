@@ -1,1 +1,6 @@
-# scrum_and_work_flow
+
+
+# **Done is better than perfect**
+
+
+# **Move fast and break things**
